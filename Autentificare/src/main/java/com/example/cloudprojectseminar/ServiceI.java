@@ -1,4 +1,4 @@
-package com.example.cloudproiecttrip.utils;
+package com.example.cloudprojectseminar;
 
 import java.util.List;
 
